@@ -1,0 +1,35 @@
+{
+  "name": "sequelize-job",
+  "version": "0.0.0",
+  "description": "NodeJS job scheduler using Sequelize.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xpepermint/sequelize-job.git"
+  },
+  "keywords": [
+    "job",
+    "jobs",
+    "schedule",
+    "scheduler",
+    "queue",
+    "kue",
+    "background",
+    "process",
+    "processing",
+    "priority",
+    "sequelize",
+    "mysql",
+    "pg",
+    "postgresql"
+  ],
+  "author": "Xpepermint",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/xpepermint/sequelize-job/issues"
+  },
+  "homepage": "https://github.com/xpepermint/sequelize-job"
+}
